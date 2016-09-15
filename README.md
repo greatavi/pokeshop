@@ -25,6 +25,6 @@ python test.py
 ```
 
 ##Demo:
-![Video walkthrough](pokemon_shop.gif)
+![Video walkthrough](pokemon_shopping.gif)
 
 
