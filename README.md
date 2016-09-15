@@ -25,6 +25,6 @@ python unittest.py
 ```
 
 ##Demo:
-![Video walkthrough](pokemon_shopping.gif)
+![Video walkthrough](pokemon_shop.gif)
 
 
