@@ -30,7 +30,7 @@ class Shop():
         Takes user selection of pokemon as input
         :return: nothing
         """
-        selected_option = raw_input('choose your option to add to cart and type "buy" to purchase or type "exit" to exit ')
+        selected_option = raw_input('choose your option to add to cart. Type "buy" to purchase or type "exit" to exit ')
         if selected_option == "buy":
             self.purchase_poke()
             return
