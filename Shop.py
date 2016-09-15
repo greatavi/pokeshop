@@ -1,5 +1,4 @@
 import sys
-import unittest
 
 
 class Shop():
