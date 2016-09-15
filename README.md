@@ -21,7 +21,7 @@ How to run the test cases:
 
 - Open terminal, goto file location and type
 ```python
-python unittest.py
+python test.py
 ```
 
 ##Demo:
